@@ -1,99 +1,81 @@
 body {
-    background-color:#00B4D8;
+    background-color: #036635;;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     margin: 0px;
     padding: 1px;
   
   }
-  @media (max-width: 1980px) {
-    .header {
-        width: 100%;
-        height: 50%;
-        padding-right: 5%;
-      }
-      
-      .inner-header {
-        padding-left: 5%;
-        padding-top: 5%;
-        padding-right: 5%;
-        text-align: center;
-      }
-      .h1-header{
-          color: #ddf42e;
-      }
-  }
-  @media (max-width: 1024px) {
-    .header {
+  @media (max-width:3040px){
+    .header{
       width: 100%;
-      height: 50%;
-      padding-right: 5%;
+      padding-top: 20px;
+      padding-left: 35%;
     }
-    
-    .inner-header {
-      padding-left: 5%;
-      padding-top: 5%;
-      padding-right: 5%;
-      text-align: center;
+    #button-higth{
+      width: 20%;
+      background-color: white;
+      color: #036635;
     }
-    .h1-header{
-        color: #ddf42e;
+    .inner-header-acordeon{
+      padding: 15%;
+      width: 100%;
     }
 
-  
+
+  }
+  @media (max-width: 1980px) {
+    .header{
+      width: 100%;
+      padding-top: 20px;
+      padding-left: 35%;
+    }
+    #button-higth{
+      width: 25%;
+    }
+  }
+  @media (max-width: 1024px) {
+
+    .header{
+      width: 100%;
+      padding-top: 20px;
+      padding-left: 35%;
+    }
+    #button-higth{
+      width: 35%;
+    }
   }
   
   @media (max-width: 768px) {
-    header {
+ 
+    .header{
       width: 100%;
-      height: 50%;
-      padding-right: 5%;
+      padding-top: 20px;
+      padding-left: 35%;
     }
-  
-    .inner-header {
-      padding-left: 5%;
-      padding-top: 5%;
-      padding-right: 5%;
-      text-align: center;
+    #button-higth{
+      width: 30%;
     }
-    .h1-header{
-        color: #ddf42e;
-    }
-    
   }
   
   @media (max-width: 480px) {
-    header {
+    .header{
       width: 100%;
-      height: 50%;
-      padding-right: 5%;
+      padding-top: 20px;
+      padding-left: 35%;
     }
-  
-    .inner-header {
-      padding-left: 5%;
-      padding-top: 5%;
-      padding-right: 5%;
-      text-align: center;
-    }
-    .h1-header{
-        color: #ddf42e;
+    #button-higth{
+      width: 35%;
     }
   }
 
   @media (max-width: 320px) {
-    header {
+    .header{
       width: 100%;
-      height: 50%;
-      padding-right: 5%;
+      padding-top: 20px;
+      padding-left: 35%;
     }
-  
-    .inner-header {
-      padding-left: 5%;
-      padding-top: 5%;
-      padding-right:5%;
-      text-align: center;
-    }
-    .h1-header{
-        color: #ddf42e;
+    #button-higth{
+      width: 50%;
     }
 }
