@@ -1,16 +1,16 @@
 body {
     background-color: #036635;;
-    font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     margin: 0px;
     padding: 1px;
+    text-align: center;
   
   }
   @media (max-width:3040px){
     .header{
       width: 100%;
       padding-top: 20px;
-      padding-left: 20%;
+      padding-left: 5%;
     }
     .h1-welcome{
       color: white;
@@ -38,7 +38,7 @@ body {
     .header{
       width: 100%;
       padding-top: 20px;
-      padding-left: 20%;
+      padding-left: 5%;
     }
 
     .h1-welcome{
@@ -65,7 +65,7 @@ body {
     .header{
       width: 100%;
       padding-top: 20px;
-      padding-left: 35%;
+      padding-left: 5%;
     }
     .h1-welcome{
       color: white;
@@ -91,7 +91,7 @@ body {
     .header{
       width: 100%;
       padding-top: 20px;
-      padding-left: 20%;
+      padding-left: 5%;
     }
     .h1-welcome{
       color: white;
@@ -116,7 +116,7 @@ body {
     .header{
       width: 100%;
       padding-top: 20px;
-      padding-left: 15%;
+      padding-left: 5%;
     }
     .h1-welcome{
       color: white;
