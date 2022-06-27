@@ -1,25 +1,33 @@
-body {
-    background-color: #036635;;
-    font-style: italic;
-    margin: 0px;
-    padding: 1px;
-    text-align: center;
-  
-  }
+
   @media (max-width:3040px){
+    body {
+      font-style: italic;
+      margin: 0px;
+      padding: 1px;
+      text-align: center;
+    }
     .header{
       width: 100%;
       padding-top: 20px;
       padding-left: 5%;
     }
     .h1-welcome{
-      color: white;
+      color: #036635;
       padding-bottom: 2%;
     }
     #button-higth{
-      width: 20%;
-      background-color: white;
+      width: 100%;
       color: #036635;
+      background-color: white;
+      outline: none;
+      border: none;
+      text-align: center;
+      font-size: 65%;
+      white-space: none;
+    }
+    .coffe-img{
+
+      width: 10%;
     }
     .inner-header-acordeon{
       width: 100%;
@@ -35,6 +43,12 @@ body {
 
   }
   @media (max-width: 1980px) {
+    body {
+      font-style: italic;
+      margin: 0px;
+      padding: 1px;
+      text-align: center;
+    }
     .header{
       width: 100%;
       padding-top: 20px;
@@ -42,12 +56,23 @@ body {
     }
 
     .h1-welcome{
-      color: white;
+      color: #036635;
       padding-bottom: 2%;
     }
-
     #button-higth{
-      width: 25%;
+      width: 100%;
+      color: #036635;
+      background-color: white;
+      outline: none;
+      border: none;
+      text-align: center;
+      font-size: 200%;
+      white-space: none;
+    }
+
+    .coffe-img{
+      width: 10%;
+
     }
     .inner-header-acordeon{
       width: 100%;
@@ -59,20 +84,36 @@ body {
       width: 50%;
       padding-left: 20%;
     }
+
   }
   @media (max-width: 1024px) {
-
+    body {
+      font-style: italic;
+      margin: 0px;
+      padding: 1px;
+      text-align: center;
+    }
     .header{
       width: 100%;
       padding-top: 20px;
       padding-left: 5%;
     }
     .h1-welcome{
-      color: white;
+      color: #036635;
       padding-bottom: 2%;
     }
     #button-higth{
-      width: 35%;
+      width: 100%;
+      color: #036635;
+      background-color: white;
+      outline: none;
+      border: none;
+      text-align: center;
+      font-size: 100%;
+      white-space: none;
+    }
+    .coffe-img{
+      width: 75%;
     }
     .inner-header-acordeon{
       width: 100%;
@@ -87,18 +128,33 @@ body {
   }
   
   @media (max-width: 768px) {
- 
+    body {
+      font-style: italic;
+      margin: 0px;
+      padding: 1px;
+      text-align: center;
+    }
     .header{
       width: 100%;
       padding-top: 20px;
       padding-left: 5%;
     }
     .h1-welcome{
-      color: white;
+      color: #036635;
       padding-bottom: 2%;
     }
     #button-higth{
-      width: 50%;
+      width: 100%;
+      color: #036635;
+      background-color: white;
+      outline: none;
+      border: none;
+      text-align: justify;
+      font-size: 65%;
+      white-space: none;
+    }
+    .coffe-img{
+      width: 65%;
     }
     .inner-header-acordeon{
       width: 100%;
@@ -113,17 +169,33 @@ body {
   }
   
   @media (max-width: 480px) {
+    body {
+      font-style: italic;
+      margin: 0px;
+      padding: 1px;
+      text-align: center;
+    }
     .header{
       width: 100%;
       padding-top: 20px;
       padding-left: 5%;
     }
     .h1-welcome{
-      color: white;
+      color: #036635;
       padding-bottom: 2%;
     }
     #button-higth{
       width: 100%;
+      color: #036635;
+      background-color: white;
+      outline: none;
+      border: none;
+      text-align: justify;
+      font-size: 65%;
+      white-space: none;
+    }
+    .coffe-img{
+      width: 50%;
     }
     .inner-header-acordeon{
       width: 100%;
@@ -138,17 +210,33 @@ body {
   }
 
   @media (max-width: 320px) {
+    body {
+      font-style: italic;
+      margin: 0px;
+      padding: 1px;
+      text-align: center;
+    }
     .header{
       width: 100%;
       padding-top: 20px;
       padding-left: 5%;
     }
     .h1-welcome{
-      color: white;
+      color: #036635;
       padding-bottom: 2%;
     }
     #button-higth{
       width: 100%;
+      color: #036635;
+      background-color: white;
+      outline: none;
+      border: none;
+      text-align: justify;
+      font-size: 65%;
+      white-space: none;
+    }
+    .coffe-img{
+      width: 30%;
     }
     .inner-header-acordeon{
       width: 100%;
