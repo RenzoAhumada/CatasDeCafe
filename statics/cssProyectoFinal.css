@@ -1,7 +1,6 @@
 
   @media (max-width:3040px){
     body {
-      font-style: italic;
       margin: 0px;
       padding: 1px;
       text-align: center;
@@ -26,7 +25,7 @@
       white-space: none;
     }
     .coffe-img{
-
+      text-align: center;
       width: 10%;
     }
     .inner-header-acordeon{
@@ -44,7 +43,6 @@
   }
   @media (max-width: 1980px) {
     body {
-      font-style: italic;
       margin: 0px;
       padding: 1px;
       text-align: center;
@@ -72,7 +70,7 @@
 
     .coffe-img{
       width: 10%;
-
+      text-align: center;
     }
     .inner-header-acordeon{
       width: 100%;
@@ -88,7 +86,6 @@
   }
   @media (max-width: 1024px) {
     body {
-      font-style: italic;
       margin: 0px;
       padding: 1px;
       text-align: center;
@@ -114,6 +111,7 @@
     }
     .coffe-img{
       width: 75%;
+      text-align: center;
     }
     .inner-header-acordeon{
       width: 100%;
@@ -129,7 +127,6 @@
   
   @media (max-width: 768px) {
     body {
-      font-style: italic;
       margin: 0px;
       padding: 1px;
       text-align: center;
@@ -155,6 +152,7 @@
     }
     .coffe-img{
       width: 65%;
+      text-align: center;
     }
     .inner-header-acordeon{
       width: 100%;
@@ -170,7 +168,6 @@
   
   @media (max-width: 480px) {
     body {
-      font-style: italic;
       margin: 0px;
       padding: 1px;
       text-align: center;
@@ -185,7 +182,7 @@
       padding-bottom: 2%;
     }
     #button-higth{
-      width: 100%;
+      width: 50%;
       color: #036635;
       background-color: white;
       outline: none;
@@ -196,6 +193,7 @@
     }
     .coffe-img{
       width: 50%;
+      text-align: center;
     }
     .inner-header-acordeon{
       width: 100%;
@@ -211,7 +209,6 @@
 
   @media (max-width: 320px) {
     body {
-      font-style: italic;
       margin: 0px;
       padding: 1px;
       text-align: center;
@@ -226,17 +223,18 @@
       padding-bottom: 2%;
     }
     #button-higth{
-      width: 100%;
+      width: 50%;
       color: #036635;
       background-color: white;
       outline: none;
       border: none;
       text-align: justify;
-      font-size: 65%;
+      font-size: 75%;
       white-space: none;
     }
     .coffe-img{
       width: 30%;
+      text-align: center;
     }
     .inner-header-acordeon{
       width: 100%;
